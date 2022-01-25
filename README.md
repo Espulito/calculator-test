@@ -4,8 +4,8 @@
   
 ## FAQ
   
-¿Cuales son las funcionalidades actuales?. - Actualmente solo se puede: Sumar - Restar - Dividir - Multiplicar - Ver el resultado.
+>¿Cuales son las funcionalidades actuales?. - Actualmente solo se puede: Sumar - Restar - Dividir - Multiplicar - Ver el resultado.
   
-¿Que funcionalidades se van a implementar?. - Tengo previsto mejorar los estilos, agregar nuevas funcionalidades y nuevos botones.
+>¿Que funcionalidades se van a implementar?. - Tengo previsto mejorar los estilos, agregar nuevas funcionalidades y nuevos botones.
   
-¿El código de la calculadora lo puedo utilizar libremente?. - ¡Si!, puedes utilizar el código fuente tanto como quieras.
+>¿El código de la calculadora lo puedo utilizar libremente?. - ¡Si!, puedes utilizar el código fuente tanto como quieras.
